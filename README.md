@@ -5,7 +5,7 @@ The Instance Calculator determines the number of days employees take off. There 
     1. The day range include weekends  
     2. The day range include holidays  
     3. The employees normal shifts exceeds certain hours  
-Return: Counts of longterm (more than a certain number of days in a row) or shortterm (less than longterm requirement)
+Return: Counts of longterm (more than a certain number of days in a row) or shortterm (less than longterm requirement)  
 
 Since excel has no function tailored for this specific problem, InstanceCalculator can counts longterm and shortterm instances for each employees.
 
