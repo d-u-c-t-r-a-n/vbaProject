@@ -10,3 +10,4 @@ Return: Counts of longterm (more than a certain number of days in a row) or shor
 Since excel has no function tailored for this specific problem, InstanceCalculator can counts longterm and shortterm instances for each employees.  
   
 Requirement: An unduplicated list of employees, with 1 entry for every name.    
+  
