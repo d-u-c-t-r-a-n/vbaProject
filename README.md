@@ -1,5 +1,5 @@
 # vbaProject
-This project was created within 8 days without any prior knowledge to the language. The main purpose of this project is to learn a new topic (in this case a programming language) and to establish meaningful knowledge (code) as fast as possible.        
+This project was created within 8 days without any prior knowledge to the language. The main purpose of this project is to learn a new topic (in this case a programming language) and to establish meaningful knowledge (code) as fast as possible.          
       
 The Instance Calculator determines the number of days employees take off. There are a number of factors that influence the count:        
     1. The day range include weekends  
