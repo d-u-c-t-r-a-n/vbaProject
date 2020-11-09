@@ -3,7 +3,7 @@ This project was created within 8 days without any prior knowledge to the langua
       
 The Instance Calculator determines the number of days employees take off. There are a number of factors that influence the count:        
     1. The day range include weekends  
-    2. The day range include holidays    
+    2. The day range include holidays      
     3. The employees normal shifts exceeds certain hours  
 Return: Counts of longterm (more than a certain number of days in a row) or shortterm (less than longterm requirement)  
     
