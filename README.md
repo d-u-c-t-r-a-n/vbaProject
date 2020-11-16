@@ -8,6 +8,6 @@ The Instance Calculator determines the number of days employees take off. There 
 Return: Counts of longterm (more than a certain number of days in a row) or shortterm (less than longterm requirement)  
       
 Since excel has no function tailored for this specific problem, InstanceCalculator can counts longterm and shortterm instances for each employees.      
-  
+   
 Requirement: An unduplicated list of employees, with 1 entry for every name.    
   
